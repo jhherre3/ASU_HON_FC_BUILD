@@ -61,4 +61,4 @@ This project is open to collaboration! Whether you're an engineer, software deve
 ---
 
 ## ⚡ Stay Updated  
-Follow this repository for regular updates on the **ASU HONORS FLIGHT CONTROLLER BUILD**! 🚀  
+Follow this repository for regular updates.
