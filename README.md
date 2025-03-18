@@ -9,10 +9,11 @@
 This repository documents the research, development, and testing of a **custom-built flight controller** for drones. 
 
 ### **Key Focus Areas:**  
-- 🧠 **Custom Flight Control Architecture** – Sensor fusion, PID tuning, and stability algorithms  
+- 🔍 **Open-Source Documentation** – Setup guides, wiring diagrams, and firmware flashing instructions
 - 🔌 **Hardware Integration** –  IMU, magnetometer, microsd, barometer
+- 🧠 **Custom Flight Control Architecture** – Sensor fusion, PID tuning, and stability algorithms  
 - 🏎️ **Performance Optimization** – ESC signal processing, motor control, and power efficiency  
-- 🔍 **Open-Source Documentation** – Setup guides, wiring diagrams, and firmware flashing instructions  
+ 
 
 ---
 
